@@ -2,7 +2,9 @@
     "Balo": {
         "expiry": 1768995406.6848757,
         "max_devices": 1,
-        "hwids": []
+        "hwids": [
+            "testhwid"
+        ]
     },
     "NRT-P9NN": {
         "expiry": 1769082199.9974906,
