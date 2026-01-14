@@ -27,5 +27,10 @@
         "expiry": 1769082294.8677886,
         "max_devices": 1,
         "hwids": []
+    },
+    "NRT-J6OK": {
+        "expiry": 1768499064.5920136,
+        "max_devices": 1,
+        "hwids": []
     }
 }
