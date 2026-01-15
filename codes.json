@@ -2,6 +2,8 @@
     "Bach": {
         "expiry": 1769051835.9442394,
         "max_devices": 1,
-        "hwids": []
+        "hwids": [
+            "s87f89ashfn28ayuja89yhg"
+        ]
     }
 }
