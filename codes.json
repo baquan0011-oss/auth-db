@@ -5,5 +5,10 @@
         "hwids": [
             "s87f89ashfn28ayuja89yhg"
         ]
+    },
+    "NRT-9O6C": {
+        "expiry": 1769052602.4390452,
+        "max_devices": 1,
+        "hwids": []
     }
 }
