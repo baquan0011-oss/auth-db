@@ -10,5 +10,10 @@
         "expiry": 1769052602.4390452,
         "max_devices": 1,
         "hwids": []
+    },
+    "NRT-Bachngu": {
+        "expiry": 1777089340.9742155,
+        "max_devices": 1,
+        "hwids": []
     }
 }
