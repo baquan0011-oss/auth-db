@@ -3,5 +3,10 @@
         "expiry": 1769354065.4907434,
         "max_devices": 1,
         "hwids": []
+    },
+    "KEYAUTH-69ot": {
+        "expiry": 1800373658.1626933,
+        "max_devices": 1,
+        "hwids": []
     }
 }
