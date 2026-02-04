@@ -8,5 +8,20 @@
         "expiry": 1770812933.1328406,
         "max_devices": 1,
         "hwids": []
+    },
+    "NRT-V4D6UP": {
+        "expiry": 1770813097.5325713,
+        "max_devices": 1,
+        "hwids": []
+    },
+    "NRT-IH9P9W": {
+        "expiry": 1770813097.5325713,
+        "max_devices": 1,
+        "hwids": []
+    },
+    "NRT-BZWKSA": {
+        "expiry": 1770813097.5325713,
+        "max_devices": 1,
+        "hwids": []
     }
 }
