@@ -43,5 +43,10 @@
         "expiry": 1856703502.3257926,
         "max_devices": 1,
         "hwids": []
+    },
+    "ditmecuocdoi": {
+        "expiry": 8.640000177030496e+16,
+        "max_devices": 1,
+        "hwids": []
     }
 }
