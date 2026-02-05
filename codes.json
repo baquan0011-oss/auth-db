@@ -28,5 +28,10 @@
         "expiry": 1770894926.0882406,
         "max_devices": 1,
         "hwids": []
+    },
+    "bine": {
+        "expiry": 1801835393.529966,
+        "max_devices": 1,
+        "hwids": []
     }
 }
