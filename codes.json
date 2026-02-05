@@ -23,5 +23,10 @@
         "expiry": 1770813097.5325713,
         "max_devices": 1,
         "hwids": []
+    },
+    "zeno": {
+        "expiry": 1770894926.0882406,
+        "max_devices": 1,
+        "hwids": []
     }
 }
