@@ -38,5 +38,10 @@
         "expiry": 1770906987.911066,
         "max_devices": 1,
         "hwids": []
+    },
+    "balone": {
+        "expiry": 1856703502.3257926,
+        "max_devices": 1,
+        "hwids": []
     }
 }
