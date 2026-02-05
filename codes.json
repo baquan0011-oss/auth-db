@@ -33,5 +33,10 @@
         "expiry": 1801835393.529966,
         "max_devices": 1,
         "hwids": []
+    },
+    "bin": {
+        "expiry": 1770906987.911066,
+        "max_devices": 1,
+        "hwids": []
     }
 }
