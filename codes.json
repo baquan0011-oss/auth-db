@@ -43,5 +43,10 @@
         "expiry": 8.640000177030496e+16,
         "max_devices": 1,
         "hwids": []
+    },
+    "NRT-G5KI": {
+        "expiry": 1771124114.7854042,
+        "max_devices": 1,
+        "hwids": []
     }
 }
