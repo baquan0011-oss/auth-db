@@ -1,31 +1,6 @@
 {
-    "NRT-V4D6UP": {
-        "expiry": 1770813097.5325713,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "NRT-IH9P9W": {
-        "expiry": 1770813097.5325713,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "NRT-BZWKSA": {
-        "expiry": 1770813097.5325713,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "zeno": {
-        "expiry": 1770894926.0882406,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "bin": {
-        "expiry": 1770906987.911066,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "NRT-G5KI": {
-        "expiry": 1771124114.7854042,
+    "BALO-budi": {
+        "expiry": 1773207169.674143,
         "max_devices": 1,
         "hwids": []
     }
