@@ -3,5 +3,10 @@
         "expiry": 1773207169.674143,
         "max_devices": 1,
         "hwids": []
+    },
+    "rauma": {
+        "expiry": 1775713167.696636,
+        "max_devices": 18,
+        "hwids": []
     }
 }
