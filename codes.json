@@ -4,11 +4,6 @@
         "max_devices": 18,
         "hwids": []
     },
-    "NRT-PEPG94": {
-        "expiry": 1772689221.4366379,
-        "max_devices": 1,
-        "hwids": []
-    },
     "NRT-DV01TP": {
         "expiry": 1772689221.4366379,
         "max_devices": 1,
