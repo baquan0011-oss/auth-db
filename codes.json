@@ -3,10 +3,5 @@
         "expiry": 1773207169.674143,
         "max_devices": 1,
         "hwids": []
-    },
-    "balo": {
-        "expiry": 1781242740.9479363,
-        "max_devices": 7,
-        "hwids": []
     }
 }
