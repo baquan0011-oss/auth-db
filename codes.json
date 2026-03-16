@@ -13,10 +13,5 @@
         "expiry": 1776176052.8969162,
         "max_devices": 1,
         "hwids": []
-    },
-    "sex": {
-        "expiry": 1816868329.284863,
-        "max_devices": 5,
-        "hwids": []
     }
 }
