@@ -1,16 +1,6 @@
 {
-    "rauma": {
-        "expiry": 1775713167.696636,
-        "max_devices": 18,
-        "hwids": []
-    },
-    "bin": {
-        "expiry": 1775713404.764977,
-        "max_devices": 1,
-        "hwids": []
-    },
-    "balo": {
-        "expiry": 1776176052.8969162,
+    "balone": {
+        "expiry": 8641777958819.999,
         "max_devices": 1,
         "hwids": []
     }
